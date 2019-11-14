@@ -5,4 +5,4 @@ My_Landing_Page_2
 3) Adding html5boilerplate files ( https://html5boilerplate.com/ )
 4) Add, Commit and Push it to Github (Check the Github repository changes)
 5) Open https://codesandbox.io and impor github link to open the project in Codesandbox
-6) Work with project in Sandbox and make commits/pushes!
+6) Work with project in Sandbox (PHPStorm) and make commits/pushes!
