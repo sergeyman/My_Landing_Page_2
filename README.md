@@ -1,5 +1,5 @@
 # My_Landing_Page_2
-My_Landing_Page_2
+Based on [Practical Web Design]
 1) Create Github Repository (Be caregul with the names)
 2) Clone it to home PHPStorm. (Creating new folder and project)
 3) Adding html5boilerplate files ( https://html5boilerplate.com/ )
